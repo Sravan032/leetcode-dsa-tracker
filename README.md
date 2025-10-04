@@ -8,7 +8,7 @@
 
 | Metric           | Value        |
 |------------------|--------------|
-| Problems Solved  | 75+          |
+| Problems Solved  | 110+          |
 | Primary Platform | LeetCode     |
 | Daily Target     | 4–5 problems |
 | Tracking Since   | 07 Aug 2025  |
