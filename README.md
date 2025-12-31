@@ -1,10 +1,10 @@
-# 📘 DSA Progress Tracker
+#  DSA Progress Tracker
 
 > **A public log of my Data Structures & Algorithms journey** – solving problems daily, sharpening problem-solving skills, and preparing for top software development roles.
 
 ---
 
-## 📊 Current Stats
+##  Current Stats
 
 | Metric           | Value        |
 |------------------|--------------|
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Goals
+##  Goals
 
 - Consistently solve **4–5 DSA problems daily**.
 - Master **patterns and algorithms** for technical interviews.
@@ -24,12 +24,12 @@
 
 ---
 
-## 📅 Progress Logs
+##  Progress Logs
 All problem-solving logs are in the [`/logs/`](logs/) folder.
 
 ---
 
-## 🏆 Motivation
+##  Motivation
 
 > _"You don’t have to be great to start, but you have to start to be great."_  
 > Every problem solved takes me one step closer to my goal.
